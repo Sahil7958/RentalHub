@@ -1,3 +1,7 @@
+![Screenshot 2023-10-18 124351](https://github.com/Sahil7958/RentalHub/assets/113251909/22822f28-7dc8-4f3f-a626-0be902c91569)
+![Screenshot 2023-10-18 124608](https://github.com/Sahil7958/RentalHub/assets/113251909/e57f8dc5-6fa4-443c-bc74-78e79f5076b1)
+![Screenshot 2023-10-18 124826](https://github.com/Sahil7958/RentalHub/assets/113251909/9ff02139-07cb-488d-ad46-93743164bd65)
+![Screenshot 2023-10-18 125258](https://github.com/Sahil7958/RentalHub/assets/113251909/0955cbce-5a44-4a49-b44e-b3f947506ec2)
 ![Screenshot 2023-10-18 125531](https://github.com/Sahil7958/RentalHub/assets/113251909/3bb236e9-34f5-4174-90ba-886dcb9eab9c)
 
 # Getting Started with Create React App
