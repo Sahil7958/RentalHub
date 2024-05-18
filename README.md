@@ -1,3 +1,5 @@
+![Screenshot 2023-10-18 125531](https://github.com/Sahil7958/RentalHub/assets/113251909/3bb236e9-34f5-4174-90ba-886dcb9eab9c)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
